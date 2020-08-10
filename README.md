@@ -1,3 +1,4 @@
+GSP329 Integrate with Machine Learning APIs: Challenge Lab
 #Create the new service account -> roles: Storage Admin & BigQuery Admin
 #Then, create credentials to log in as your new service account. Create these credentials and save it as a JSON file "~/key.json" by using the following command:
 gcloud iam service-accounts keys create ~/key.json \
